@@ -1,4 +1,4 @@
-package com.rajsot;
+package com.rajsot.medicalhub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
